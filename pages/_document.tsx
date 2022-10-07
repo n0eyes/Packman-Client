@@ -55,7 +55,7 @@ class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta
             property="og:title"
-            content={'팩맨 Packman - 내손안 짐챙김 도우미'}
+            content={'팩맨 Packman - 내 손안 짐 챙김 도우미'}
             key="og:title"
           />
           <meta
